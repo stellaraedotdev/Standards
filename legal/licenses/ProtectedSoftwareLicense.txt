@@ -1,0 +1,41 @@
+PROTECTED SOFTWARE LICENSE (PSL)
+Version 1.0 — 2026
+Copyright (c) Stellarae. All rights reserved.
+NOTICE
+
+This license is subject to the modification constraints defined in the Stellarae License‑License
+(SLL), available at:
+https://github.com/stellaraedotdev/Standards/legal/licenses/StellaraeLicenseLicense.txt
+
+Pursuant to the SLL, the only authorized modifications to this license are:
+(a) substitution of the name “Stellarae” with the name of the relevant copyright holder; and
+(b) revision of dates or version identifiers. No other alterations are permitted.
+
+DEFINITIONS
+1.1 “Software” means the source code, binaries, documentation, and other materials distributed under this License.
+1.2 “Original Form” means the Software exactly as released by Stellarae, without alteration.
+1.3 “Modified Form” means any version of the Software that has been changed, edited, altered, or adapted in any way.
+1.4 “You” means any individual or entity exercising rights under this License.
+GRANT OF RIGHTS
+2.1 Use. You may use the Software for any lawful purpose.
+2.2 Modification. You may modify the Software for personal, internal, academic, or commercial purposes.
+2.3 Distribution of Original Form. You may copy and distribute the Software in its Original Form, provided that this License is included in full.
+2.4 Commercial Use. Commercial use of the Software in Original Form or as part of a larger work is permitted.
+RESTRICTIONS
+3.1 No Distribution of Modified Forms. You may not distribute, publish, sell, license, or otherwise make available any Modified Form of the Software.
+3.2 No Misrepresentation. You may not misrepresent the origin of the Software or claim authorship of the Original Form.
+3.3 No Removal of Notices. You may not remove or alter copyright notices, license notices, or attribution statements in the Original Form.
+COPYRIGHT AND OWNERSHIP
+Stellarae retains all copyright and intellectual property rights to the Software. No ownership rights are transferred by this License.
+TERMINATION
+5.1 Automatic Termination. This License terminates automatically if You violate its terms.
+5.2 Effect of Termination. Upon termination, You must cease all distribution of the Software and destroy any Modified Forms.
+DISCLAIMER OF WARRANTY
+The Software is provided “as is”, without warranty of any kind, express or implied.
+LIMITATION OF LIABILITY
+To the maximum extent permitted by law, Stellarae shall not be liable for any damages arising from the use of the Software.
+GOVERNING LAW
+This License is governed by the laws of New Zealand unless otherwise required by local law.
+ACCEPTANCE
+By using, modifying, or distributing the Software, You acknowledge that You have read, understood, and agreed to this License.
+
