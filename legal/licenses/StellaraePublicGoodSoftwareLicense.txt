@@ -1,7 +1,19 @@
 STELLARAE PUBLIC GOOD SOFTWARE LICENSE (SPGSL)
 Version 1.1 — 2026
 Copyright (c) Stellarae. All rights reserved.
- 	PREAMBLE
+
+    NOTICE
+
+This license is subject to the modification constraints defined in the Stellarae License‑License
+(SLL), available at:
+https://github.com/stellaraedotdev/Standards/legal/licenses/StellaraeLicenseLicense.txt
+
+Pursuant to the SLL, the only authorized modifications to this license are:
+(a) substitution of the name “Stellarae” with the name of the relevant copyright holder; and
+(b) revision of dates or version identifiers. No other alterations are permitted.
+
+
+PREAMBLE
 The development of computing and the global internet has created an unprecedented foundation for communication, knowledge exchange, and collective progress. These systems were originally conceived as open, interoperable, and decentralised infrastructures intended to empower individuals, support scientific advancement, and strengthen the public sphere.
 Over time, however, the concentration of technological power has enabled forms of surveillance, behavioural control, and information asymmetry that undermine these foundational principles. When digital systems are used primarily to advance the interests of powerful institutions, states, or private entities at the expense of the public, they cease to function as instruments of shared benefit and instead become mechanisms of control.
 This License affirms that computing and networked technologies should remain aligned with the public good. They must not be appropriated as tools for oppression, exploitation, or the erosion of civil liberties. Instead, they should operate as shared resources that support human dignity, democratic participation, and equitable access to information.
