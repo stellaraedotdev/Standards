@@ -1,6 +1,18 @@
 STELLARAE GOVERNMENT‑RESTRICTED PERMISSIVE LICENSE (SGRPL)
 Version 1.0 — 2026
 Copyright (c) Stellarae. All rights reserved.
+
+NOTICE
+
+This license is subject to the modification constraints defined in the Stellarae License‑License
+(SLL), available at:
+https://github.com/stellaraedotdev/Standards/legal/licenses/StellaraeLicenseLicense.txt
+
+Pursuant to the SLL, the only authorized modifications to this license are:
+(a) substitution of the name “Stellarae” with the name of the relevant copyright holder; and
+(b) revision of dates or version identifiers. No other alterations are permitted.
+
+
 DEFINITIONS
 1.1 “Software” means the source code, binaries, documentation, and other materials distributed under this License.
 1.2 “You” means any individual or entity exercising rights under this License, excluding any Government Actor as defined below.
