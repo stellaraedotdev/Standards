@@ -1,0 +1,27 @@
+STELLARAE LICENSE‑LICENSE (SLL)
+Version 1.1 — 2026
+Dedicated to the Public Domain
+This document, known as the Stellarae License‑License (“SLL”), is hereby dedicated to the public domain. Stellarae permanently waives all copyright and related rights in this document to the fullest extent permitted by applicable law. The SLL may be used, reproduced, incorporated, or redistributed by any party for any purpose without restriction.
+PURPOSE
+The purpose of this License‑License is to establish uniform rules governing the modification of licenses that incorporate or reference it. It is intended to ensure the stability, consistency, and integrity of such licenses by limiting permissible alterations to strictly administrative adjustments.
+DEFINITIONS
+2.1 “Covered License” means any license text that incorporates, includes, or references this License‑License.
+2.2 “Copyright Holder” means the individual or entity identified within the Covered License as the owner of the copyright in the licensed work.
+2.3 “Permitted Modifications” means the limited modifications authorised under Section 3 of this License‑License.
+PERMITTED MODIFICATIONS
+3.1 Except as expressly provided in this Section, no part of a Covered License may be modified, altered, edited, abridged, expanded, or adapted in any manner.
+3.2 The following modifications are permitted:
+(a) Replacement of the name “Stellarae” with the name of the Copyright Holder;
+(b) Updating of dates, years, or version numbers;
+(c) Formatting adjustments that do not alter the wording, meaning, or structure of the Covered License.
+3.3 Any modification to a Covered License that exceeds the scope of the Permitted Modifications renders the resulting text non‑compliant with this License‑License. Such a modified text may not claim to be derived from, governed by, or compliant with the SLL.
+PUBLIC DOMAIN STATUS OF THIS LICENSE‑LICENSE
+4.1 The SLL is in the public domain. No attribution, permission, or notice is required for its use.
+4.2 The public domain status of the SLL does not extend to any Covered License unless that Covered License independently declares itself to be in the public domain.
+NO WARRANTY
+This License‑License is provided “as is”, without warranty of any kind, express or implied, including but not limited to warranties of merchantability, fitness for a particular purpose, or non‑infringement.
+NO LIABILITY
+To the maximum extent permitted by law, Stellarae shall not be liable for any damages, losses, or claims arising from the use of this License‑License or any Covered License.
+ACCEPTANCE
+By incorporating or referencing this License‑License in any document, the user acknowledges and agrees to the terms set forth herein.
+
