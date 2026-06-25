@@ -1,0 +1,49 @@
+STELLARAE PUBLIC GOOD SOFTWARE LICENSE (SPGSL)
+Version 1.1 — 2026
+Copyright (c) Stellarae. All rights reserved.
+ 	PREAMBLE
+The development of computing and the global internet has created an unprecedented foundation for communication, knowledge exchange, and collective progress. These systems were originally conceived as open, interoperable, and decentralised infrastructures intended to empower individuals, support scientific advancement, and strengthen the public sphere.
+Over time, however, the concentration of technological power has enabled forms of surveillance, behavioural control, and information asymmetry that undermine these foundational principles. When digital systems are used primarily to advance the interests of powerful institutions, states, or private entities at the expense of the public, they cease to function as instruments of shared benefit and instead become mechanisms of control.
+This License affirms that computing and networked technologies should remain aligned with the public good. They must not be appropriated as tools for oppression, exploitation, or the erosion of civil liberties. Instead, they should operate as shared resources that support human dignity, democratic participation, and equitable access to information.
+The Software governed by this License is therefore dedicated to the collective interest of the people. Its use is conditioned on the preservation of these principles and on the rejection of practices that would convert technological capability into a means of domination or unjust surveillance. Users of this Software accept a responsibility to ensure that its operation contributes to a digital environment that is transparent, accountable, and oriented toward the welfare of all.
+PURPOSE
+This License ensures that the Software is used for the good of the people. Stellarae retains full copyright while granting broad rights to use, study, modify, and build upon the Software, provided it is not used to cause harm, violate human rights, or support activities contrary to human dignity.
+DEFINITIONS
+2.1 “Software” means the source code, binaries, documentation, and other materials distributed under this License.
+2.2 “You” means any individual or entity exercising rights under this License.
+2.3 “Prohibited Harm” means any use of the Software that directly or indirectly enables, supports, or facilitates:
+(a) violations of the Universal Declaration of Human Rights, the International Covenant on Civil and Political Rights, or other internationally recognised human rights instruments;
+(b) war crimes, crimes against humanity, genocide, or acts of mass violence;
+(c) surveillance, profiling, or data collection intended to target, exploit, endanger, or oppress individuals or groups;
+(d) development, deployment, or operation of weapons systems, autonomous or otherwise, intended to harm people;
+(e) activities whose primary purpose is coercion, exploitation, fraud, or the infliction of suffering;
+(f) any use reasonably understood to be unethical, abusive, or contrary to the public good.
+2.4 “Reasonable Prevention” means taking practical steps, appropriate to the scale of distribution, to avoid knowingly enabling Prohibited Harm. This includes refusing distribution to actors known or reasonably suspected to engage in Prohibited Harm.
+GRANT OF RIGHTS
+3.1 Use. You may use the Software for any lawful purpose that is not a Prohibited Harm.
+3.2 Modification. You may modify the Software for personal, internal, academic, or commercial purposes.
+3.3 Distribution. You may distribute Original or Modified versions of the Software, provided that:
+(a) this License is included in full;
+(b) you do not distribute the Software to any party known or reasonably suspected to engage in Prohibited Harm;
+(c) you take Reasonable Prevention measures;
+(d) you do not misrepresent the origin of the Software.
+3.4 Commercial Use. Commercial use is permitted, provided such use is not a Prohibited Harm.
+RESTRICTIONS
+4.1 Prohibition on Prohibited Harm. You may not use, modify, or distribute the Software in any manner that constitutes or facilitates Prohibited Harm.
+4.2 Duty of Reasonable Prevention. You must take Reasonable Prevention measures to avoid enabling Prohibited Harm.
+4.3 No Removal of Notices. You may not remove or alter copyright notices, license notices, or attribution statements.
+4.4 No Claim of Endorsement. You may not claim that Stellarae endorses your use, modification, or distribution of the Software.
+COPYRIGHT AND OWNERSHIP
+Stellarae retains all copyright and intellectual property rights to the Software. No ownership rights are transferred by this License.
+TERMINATION
+6.1 Automatic Termination. This License terminates automatically if you engage in Prohibited Harm or otherwise violate its terms.
+6.2 Effect of Termination. Upon termination, you must cease all use, modification, and distribution of the Software.
+DISCLAIMER OF WARRANTY
+The Software is provided “as is”, without warranty of any kind, express or implied.
+LIMITATION OF LIABILITY
+To the maximum extent permitted by law, Stellarae shall not be liable for any damages arising from the use of the Software.
+GOVERNING LAW
+This License is governed by the laws of New Zealand unless otherwise required by local law.
+ACCEPTANCE
+By using, modifying, or distributing the Software, you acknowledge that you have read, understood, and agreed to this License.
+
