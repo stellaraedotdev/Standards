@@ -22,6 +22,10 @@ Applies to all repositories that adopt Stellarae standards, including code, test
 - Write commit messages that explain intent and impact.
 - Avoid mixing unrelated refactors with functional changes.
 
+## General requirements
+All commits MUST adhere to the Stellarae Ethical Conduct Covenant.
+As a reminder to employees and verified contributers for Stellarae, you are contractually bound to this covenant. Legal consequences may occur in the event of breach of contract.
+
 ## Pull Request Requirements
 - Include problem statement, proposed solution, and alternatives considered.
 - Link related issues, incidents, or design notes.
